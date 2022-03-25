@@ -1,6 +1,6 @@
-console.log(`Vishu`); // Greetings Java script//
+console.log(`My name is Vishu`); // Greetings Java script//
 /* Day1 
  Java Class
  */
 
-console.log(`Ice Cream`);
+console.log(`My favourtie food is Ice Cream`);
